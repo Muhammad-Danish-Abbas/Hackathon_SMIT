@@ -104,9 +104,8 @@ streamlit run dashboard.py
 ---
 
 ## 👤 Author
-Muhammad Danish — BS Computer Science, Indus University, Karachi (FCIT)
+Muhammad Danish — SMIT 
 
 ---
 
-## 📸 Screenshots
-_(Dashboard aur Snowflake table screenshots `screenshots/` folder mein daalo submission se pehle)_
+
