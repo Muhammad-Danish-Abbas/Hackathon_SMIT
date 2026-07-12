@@ -1,0 +1,6 @@
+city,avg_pm25,max_pm25,min_pm25,total_readings,aqi_category,health_risk,generated_at
+Lahore,108.1,133.9,81.7,45,Unhealthy,High,2026-07-11T22:30:06.001268+00:00
+Multan,99.7,111.8,87.8,15,Unhealthy,High,2026-07-11T22:30:06.001268+00:00
+Karachi,70.2,99.2,39.0,45,Unhealthy,High,2026-07-11T22:30:06.001268+00:00
+Quetta,40.1,54.0,26.3,15,Unhealthy for Sensitive Groups,Medium,2026-07-11T22:30:06.001268+00:00
+Islamabad,26.1,41.4,10.5,30,Moderate,Low-Medium,2026-07-11T22:30:06.001268+00:00
